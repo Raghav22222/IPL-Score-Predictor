@@ -1,18 +1,18 @@
 # IPL-Score-Predictor
-It is a Machine learning algorithm which predicts the first innings score based on some parameters with 92% accuracies
-Algorithms used:
+It is a Machine learning algorithm which predicts the first innings score based on some parameters with 92% accuracies.
 
+Algorithms used:
 Linear Regression
 K-Nearest Neighbor Regressor
 XGBoost Regressor
 RandomForest Regressor
 SVR
 Decision Tree Regressor
+
 Dataset:
-
 The dataset comprises of over by over details of matches and runs from 2008 to 2020 in the updated file and the rest data from 2020 to 2023 is in the second csv file.
-
-Dataset Used: ipl_data.csv
+Dataset Used: 
+ipl_data.csv
 
 mid - match id
 date - when matches are played
